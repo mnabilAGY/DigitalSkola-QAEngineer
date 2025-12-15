@@ -39,7 +39,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "seturtokenhere",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNzY1NzkwNTM5LCJleHAiOjE3NjU3OTQxMzl9.3votlLrwh0VbCY_MDi936JHqPwORmKhAdyvldDhlkhY",
 							"type": "string"
 						}
 					]
