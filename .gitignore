@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Test reports
+mochawesome-report/
+
+# Environment variables
+.env
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
